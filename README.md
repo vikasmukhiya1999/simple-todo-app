@@ -37,11 +37,11 @@ todo-app/
 1. Ensure **Node.js** and **npm** are installed on your system.
 2. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/vikasmukhiya1999/simple-todo-app.git
     ```
 3. Navigate to the project directory:
     ```bash
-    cd todo-app
+    cd simple-todo-app
     ```
 4. Install the required dependencies:
     ```bash
@@ -64,7 +64,7 @@ todo-app/
     ```
 
 ## Live Demo
-Explore the live version of the app here: [Live Demo](my live link)  
+Explore the live version of the app here: [Live Demo](https://todo-app947.netlify.app/)  
 
 ## Contributing
 Contributions are welcome! Follow these steps to contribute:
